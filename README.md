@@ -7,8 +7,9 @@ In this homework, the objective was to do a basic climate analysis and explorati
 ### Tools
 1. Beautiful Soup
 2. Chrome Driver
-3. Pandas
-4. Matplotlib
+3. HTML
+4. Pandas
+5. Matplotlib
 
 
 ### Analysis
